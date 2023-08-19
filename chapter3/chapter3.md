@@ -49,6 +49,15 @@ not all of them are char type but some of them are
    wchar_t  |max character supported
 
 
+               _|                _|                      
+  _|_|_|  _|_|_|_|  _|  _|_|      _|_|_|      _|_|_|  
+_|_|        _|      _|_|      _|  _|    _|  _|    _|  
+    _|_|    _|      _|        _|  _|    _|  _|    _|  
+_|_|_|        _|_|  _|        _|  _|    _|    _|_|_|  
+                                                  _|  
+                                              _|_|   
+string | depends on the size of sentence or string
+
                      111
 ii                 11111
      __________   11 111
