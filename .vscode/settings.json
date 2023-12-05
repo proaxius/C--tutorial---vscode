@@ -1,8 +1,9 @@
 {
-    "cmake.sourceDirectory": "/home/anurag/Projects/NativeDesk/c++/basics/chapter-1",
+    "cmake.sourceDirectory": "${workspaceFolder}/chapter-1",
     "files.associations": {
         "*.html": "html",
         "*.ejs": "javascript",
         "istream": "cpp"
-    }
+    },
+    "cmake.configureOnOpen": true
 }
