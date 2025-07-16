@@ -4,5 +4,6 @@
         "*.html": "html",
         "*.ejs": "javascript",
         "istream": "cpp"
-    }
+    },
+    "cmake.configureOnOpen": false
 }
